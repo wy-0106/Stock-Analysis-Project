@@ -6,7 +6,7 @@ import pymysql
 DATABASE_CONFIG = {
 
     'user': 'root',
-    'password': '520000',
+    'password': '000000',
     'host': 'localhost',
     'port': '3306',
     'database': 'tmx_database',
